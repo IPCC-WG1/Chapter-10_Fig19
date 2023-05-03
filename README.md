@@ -1,5 +1,6 @@
 CHANGES IN THE INDIAN SUMMER MONSOON IN THE HISTORICAL AND FUTURE PERIODS
 =========================================================================
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6787528.svg)](https://doi.org/10.5281/zenodo.6787528)
 
 Figure number: Figure 10.19
 From the IPCC Working Group I Contribution to the Sixth Assessment Report: Chapter 10
